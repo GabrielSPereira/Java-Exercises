@@ -40,5 +40,7 @@ public class PosAulaPOOAula7 {
         
         CamaroteSuperior cs = new CamaroteSuperior();
         cs.getValor();
+        
+        Imovel im = new Imovel();
     }    
 }
