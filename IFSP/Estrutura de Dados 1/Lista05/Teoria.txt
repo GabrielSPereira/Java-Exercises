@@ -1,0 +1,16 @@
+3-) Polimorfismo ao utilizar a Classe Animal como SuperClasse e as outras 5 SubClasses animais, além do conceito de Herança ao utilizar atributos nas SubClasses herdados da SuperClasse (Animal)
+
+6-)
+a. Uma classe final é uma classe que não pode ter subclasses
+b. Um método final é um método que não pode ser sobrescrito em uma subclasse
+c. Uma variável final não pode ter o seu valor atribuído novamente
+
+7-)
+a. Uma classe abstrata serve de modelo para outras classes, e não pode ser instanciada.
+b. Um método abstrato não possui implementação, e só será implementado em uma classe filha através da sobrescrita.
+
+8-) Polimorfismo: Quando uma subclasse herda um método de uma classe, mas o implementa de forma diferente. Exemplo: Todos os funcionários de uma empresa fazem o cálculo de salário, mas cada cargo faz esse cálculo de uma forma diferente.
+
+Sobrescrita: Substitui métodos em subclasses com implementações diferentes. Exemplo: na classe "funcionário", o método definirSalario() pode multiplicar as horas trabalhadas por 200, e na subclasse "estagiário" as horas podem ser multiplicadas por 100.
+
+9-) A sobrecarga permite que o código execute funções diferentes dependendo dos atributos que foram passados.
